@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "sikandar-quraishi.github.io/react-mdl-portfolio/static/css/main.7dba8795.chunk.css",
+    "main.js": "sikandar-quraishi.github.io/react-mdl-portfolio/static/js/main.f8d4df06.chunk.js",
+    "main.js.map": "sikandar-quraishi.github.io/react-mdl-portfolio/static/js/main.f8d4df06.chunk.js.map",
+    "runtime-main.js": "sikandar-quraishi.github.io/react-mdl-portfolio/static/js/runtime-main.ea5260ea.js",
+    "runtime-main.js.map": "sikandar-quraishi.github.io/react-mdl-portfolio/static/js/runtime-main.ea5260ea.js.map",
+    "static/css/2.04aae6c4.chunk.css": "sikandar-quraishi.github.io/react-mdl-portfolio/static/css/2.04aae6c4.chunk.css",
+    "static/js/2.c5ef8b52.chunk.js": "sikandar-quraishi.github.io/react-mdl-portfolio/static/js/2.c5ef8b52.chunk.js",
+    "static/js/2.c5ef8b52.chunk.js.map": "sikandar-quraishi.github.io/react-mdl-portfolio/static/js/2.c5ef8b52.chunk.js.map",
+    "index.html": "sikandar-quraishi.github.io/react-mdl-portfolio/index.html",
+    "precache-manifest.013ef85b358f44eaf7fbeabcc0c00897.js": "sikandar-quraishi.github.io/react-mdl-portfolio/precache-manifest.013ef85b358f44eaf7fbeabcc0c00897.js",
+    "service-worker.js": "sikandar-quraishi.github.io/react-mdl-portfolio/service-worker.js",
+    "static/css/2.04aae6c4.chunk.css.map": "sikandar-quraishi.github.io/react-mdl-portfolio/static/css/2.04aae6c4.chunk.css.map",
+    "static/css/main.7dba8795.chunk.css.map": "sikandar-quraishi.github.io/react-mdl-portfolio/static/css/main.7dba8795.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea5260ea.js",
+    "static/css/2.04aae6c4.chunk.css",
+    "static/js/2.c5ef8b52.chunk.js",
+    "static/css/main.7dba8795.chunk.css",
+    "static/js/main.f8d4df06.chunk.js"
+  ]
+}
